@@ -7,8 +7,8 @@
 ⚡ Skilled in **MERN Stack**, **Next.js**, **TypeScript**, and **Redux Toolkit**, with a strong DSA foundation in **Java**
 
 ## 🚀 Featured Projects
-- **[PrepJar](#)** – AI-powered interview prep platform with real-time voice interaction, instant feedback, and scoring. *(Next.js, TypeScript, Redux Toolkit, LangGraph, Vapi AI)*  
-- **[Luxora](#)** – E-commerce platform with secure payments, product management, and cloud media handling. *(MERN, Redux Toolkit, TailwindCSS, Stripe, Cloudinary, Nodemailer)*  
+- **[PrepJar](https://github.com/amir-razvi-08/prepJar.git)** – AI-powered interview prep platform with real-time voice interaction, instant feedback, and scoring. *(Next.js, TypeScript, Redux Toolkit, LangGraph, Vapi AI)*  
+- **[LuxoraFrontend](https://github.com/amir-razvi-08/luxoraFrontend.git)** | **[LuxoraBackend](https://github.com/amir-razvi-08/luxoraBackend.git)** – E-commerce platform with secure payments, product management, and cloud media handling. *(MERN, Redux Toolkit, TailwindCSS, Stripe, Cloudinary, Nodemailer)*  
 
 
 ## 🌐 Socials:
